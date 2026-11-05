@@ -1,0 +1,4 @@
+# malformed: burst must be > 0, priority is not a number
+1 0 5 1
+2 1 0 2
+3 2 4 high
